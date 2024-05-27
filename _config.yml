@@ -1,17 +1,17 @@
 # Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+markdown: redcarpet
+highlighter: pygments
 
 # Permalinks
-permalink:        pretty
+permalink: pretty
 relative_permalinks: true
 
 # Setup
-title:            Tom's Things I Learned
-tagline:          "Tom Fakes' Things I Learned"
-description:      'A blog to gather all the small things I encounter in software and life, by Tom Fakes, Software Engineer'
-url:              https://tomfakes.com
-baseurl:          /
+title: "Tom's Things I Learned"
+tagline: "Tom Fakes' Things I Learned"
+description: "A blog to gather all the small things I encounter in software and life, by Tom Fakes, Software Engineer"
+url: https://tomfakes.com
+baseurl: /
 
 author:
   name:           'Tom Fakes'
