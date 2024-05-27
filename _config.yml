@@ -6,8 +6,8 @@ highlighter: pygments
 permalink: none
 
 # Setup
-title: "Tom's Things I Learned"
-tagline: "Tom Fakes' Things I Learned"
+title: "Tom's Today I Learned"
+tagline: "Tom Fakes: Today I Learned"
 description: "A blog to gather all the things I encounter in software and life.<br>&nbsp;- Tom Fakes"
 url: "https://tomfakes.com"
 
