@@ -9,6 +9,6 @@ short, post that picks out a detail that could help othere, or my future self, w
 
 This is my version of that Thing I Learned - TIL - blog.
 
-This is hosted on Github Pages, with the Jekyll theme called Hyde.  The beauty of the Github Pages system is that it uses all
-the tooling I use daily anyway.  Either using an editor for files on my local disk, or editing those files directly in Github, 
+This is hosted on Github Pages, with the Jekyll theme called [Hyde](https://github.com/poole/hyde).  The beauty of the Github Pages system is 
+that it uses all the tooling I use daily anyway.  Either using an editor for files on my local disk, or editing those files directly in Github, 
 allows for quickly adding new posts with little ceremony.
