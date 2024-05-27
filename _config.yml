@@ -8,7 +8,7 @@ permalink: pretty
 # Setup
 title: "Tom's Things I Learned"
 tagline: "Tom Fakes' Things I Learned"
-description: "A blog to gather all the small things I encounter in software and life.\n - Tom Fakes"
+description: "A blog to gather all the small things I encounter in software and life.<br>&nbsp;- Tom Fakes"
 url: https://tomfakes.com
 baseurl: /
 
